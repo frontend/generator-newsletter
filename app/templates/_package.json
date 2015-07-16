@@ -1,0 +1,20 @@
+{
+  "name": "<%=appname%>",
+  "version": "0.0.0",
+  "main": "newsletter/index.html",
+  "devDependencies": {
+    "browser-sync": "^2.5.3",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-gh-pages": "^0.5.0",
+    "gulp-if": "^1.2.5",
+    "gulp-jshint": "^1.9.4",
+    "gulp-load-plugins": "^0.9.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-size": "^1.2.1",
+    "gulp-util": "^3.0.4",
+    "jshint-stylish": "^1.0.1",
+    "run-sequence": "~1.0.2"
+  }
+}
