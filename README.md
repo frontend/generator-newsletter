@@ -28,3 +28,9 @@ $ yo newsletter
 ## License
 
 MIT
+
+## Roadmap
+
+* Add https://www.npmjs.com/package/gulp-inline-css/
+* Add colors options in the generator
+* Add template base tags for MailChimp and CampaignMonitor
